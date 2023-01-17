@@ -1,0 +1,47 @@
+body {
+   background: rgba(222, 196, 166, 0.71);
+   font-family: 'Open Sans', sans-serif;
+}
+
+.wrapper {
+   background: #fff;
+   width: 200px;
+   border-radius: 20px;
+   box-shadow: 10px 10px 40px rgba(67, 64, 64, 0.25);
+   margin: 40px auto 0;
+}
+
+.wrapper-item {
+   padding: 20px;
+}
+
+.title {
+   font-weight: 600;
+   font-size: 14px;
+   line-height: 19px;
+   margin-top: 20px;
+}
+
+.subtitle {
+   font-weight: 300;
+   font-size: 12px;
+   line-height: 16px;
+   margin-top: 20px;
+}
+
+.btn-box {
+   text-align: center;
+   margin-top: 10px;
+}
+
+.btn {
+   background: #846A6A;
+   border-radius: 5px;
+   text-decoration: none;
+   color: #EEEEEE;
+   padding: 7px 12px;
+   transition: background-color 0.5s linear;
+}
+.btn:hover {
+   background-color: crimson;
+}
